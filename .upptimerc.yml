@@ -16,7 +16,6 @@ sites:
     url: $SECRET_URL_PB
   - name: Carolina Custom Greens
     url: $SECRET_URL_CCPG
-
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   cname: bpgh.oradoo.com
