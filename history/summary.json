@@ -4,17 +4,17 @@
     "url": "$SECRET_URL_PPS",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "pro-putt-systems",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "97.97%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.96%",
-    "time": 289,
-    "timeDay": 110,
-    "timeWeek": 163,
-    "timeMonth": 259,
-    "timeYear": 289,
+    "time": 285,
+    "timeDay": 93,
+    "timeWeek": 151,
+    "timeMonth": 252,
+    "timeYear": 285,
     "dailyMinutesDown": {
       "2021-03-18": 29
     }
