@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 337,
-    "timeDay": 265,
-    "timeWeek": 262,
+    "time": 338,
+    "timeDay": 419,
+    "timeWeek": 299,
     "timeMonth": 307,
-    "timeYear": 337,
+    "timeYear": 338,
     "dailyMinutesDown": {
       "2021-07-01": 30,
       "2021-03-18": 29
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 347,
-    "timeDay": 237,
-    "timeWeek": 256,
+    "time": 348,
+    "timeDay": 423,
+    "timeWeek": 299,
     "timeMonth": 307,
-    "timeYear": 347,
+    "timeYear": 348,
     "dailyMinutesDown": {
       "2021-07-01": 30,
       "2021-03-18": 25
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 343,
-    "timeDay": 263,
-    "timeWeek": 265,
+    "time": 344,
+    "timeDay": 433,
+    "timeWeek": 305,
     "timeMonth": 324,
-    "timeYear": 343,
+    "timeYear": 344,
     "dailyMinutesDown": {
       "2021-07-01": 30
     }
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 178,
-    "timeDay": 305,
-    "timeWeek": 152,
-    "timeMonth": 179,
+    "timeDay": 165,
+    "timeWeek": 165,
+    "timeMonth": 180,
     "timeYear": 178,
     "dailyMinutesDown": {
       "2021-06-08": 30
@@ -93,9 +93,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 213,
-    "timeDay": 167,
-    "timeWeek": 171,
-    "timeMonth": 188,
+    "timeDay": 233,
+    "timeWeek": 189,
+    "timeMonth": 189,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2021-07-01": 30
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 318,
-    "timeDay": 227,
-    "timeWeek": 231,
-    "timeMonth": 281,
-    "timeYear": 318,
+    "time": 319,
+    "timeDay": 442,
+    "timeWeek": 274,
+    "timeMonth": 283,
+    "timeYear": 319,
     "dailyMinutesDown": {
       "2021-07-01": 30
     }
