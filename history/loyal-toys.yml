@@ -1,7 +1,7 @@
 url: $SECRET_URL_LT
-status: up
-code: 200
-responseTime: 454
-lastUpdated: 2021-09-07T23:09:20.698Z
+status: down
+code: 409
+responseTime: 90
+lastUpdated: 2021-09-08T18:24:54.050Z
 startTime: Fri Jan 22 2021 19:56:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
