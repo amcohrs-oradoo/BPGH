@@ -11,9 +11,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 334,
-    "timeDay": 411,
-    "timeWeek": 348,
-    "timeMonth": 279,
+    "timeDay": 404,
+    "timeWeek": 372,
+    "timeMonth": 283,
     "timeYear": 334,
     "dailyMinutesDown": {
       "2021-09-08": 20,
@@ -32,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 343,
-    "timeDay": 405,
-    "timeWeek": 372,
-    "timeMonth": 279,
-    "timeYear": 343,
+    "time": 344,
+    "timeDay": 416,
+    "timeWeek": 374,
+    "timeMonth": 283,
+    "timeYear": 344,
     "dailyMinutesDown": {
       "2021-09-08": 20,
       "2021-07-01": 30,
@@ -54,11 +54,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 341,
-    "timeDay": 454,
-    "timeWeek": 376,
-    "timeMonth": 299,
-    "timeYear": 341,
+    "time": 342,
+    "timeDay": 443,
+    "timeWeek": 367,
+    "timeMonth": 304,
+    "timeYear": 342,
     "dailyMinutesDown": {
       "2021-07-01": 30
     }
@@ -75,9 +75,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 175,
-    "timeDay": 120,
-    "timeWeek": 132,
-    "timeMonth": 153,
+    "timeDay": 219,
+    "timeWeek": 147,
+    "timeMonth": 150,
     "timeYear": 175,
     "dailyMinutesDown": {
       "2021-06-08": 30
@@ -95,9 +95,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 212,
-    "timeDay": 291,
-    "timeWeek": 235,
-    "timeMonth": 181,
+    "timeDay": 243,
+    "timeWeek": 236,
+    "timeMonth": 184,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2021-07-01": 30
@@ -114,11 +114,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 316,
-    "timeDay": 337,
-    "timeWeek": 338,
-    "timeMonth": 264,
-    "timeYear": 316,
+    "time": 317,
+    "timeDay": 411,
+    "timeWeek": 340,
+    "timeMonth": 268,
+    "timeYear": 317,
     "dailyMinutesDown": {
       "2021-07-01": 30
     }
